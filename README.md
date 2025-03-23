@@ -1,4 +1,14 @@
-## Hi there 👋
+## Olá, Eu sou a Alinny
+
+❤💫 About me
+
+. 👋 Sou uma estudante de Engenharia de Software no início da minha jornada na área de tecnologia.
+
+. 🚀 Explorando o mundo da programação e desenvolvimento de software.
+
+.💡 Atualmente aprendendo HTML, CSS e JavaScript.
+
+
 
 <!--
 **AlinnyGomes/AlinnyGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
